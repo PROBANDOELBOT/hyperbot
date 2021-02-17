@@ -124,7 +124,7 @@ Post issues on GitHub https://github.com/hyperchessbot/hyperbot/issues .
   
 **USE_POLYGLOT** : set it to 'true' to use polyglot opening book  
   
-**WELCOME_MESSAGE** : game chat welcome message ( delay from game start : 2 seconds , default : 'coded by @hyperchessbotauthor' )  
+**WELCOME_MESSAGE** : game chat welcome message ( delay from game start : 2 seconds , default : 'coded by @ajedrezconzeta' )  
   
 **GOOD_LUCK_MESSAGE** : game chat good luck message ( delay from game start : 4 seconds , default : 'Good luck !' )  
   
